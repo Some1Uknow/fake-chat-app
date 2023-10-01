@@ -8,10 +8,10 @@ This is a simple chat app that allows users to create fictional conversations be
 
 ## Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-Used-E34F26.svg)
-![JavaScript](https://img.shields.io/badge/JavaScript-Used-F7DF1E.svg)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Used-7952B3.svg)
-![CSS](https://img.shields.io/badge/CSS-Used-1572B6.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Features
 

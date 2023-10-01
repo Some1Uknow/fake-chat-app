@@ -2,9 +2,16 @@
 
 https://some1uknow.github.io/fake-chat-app/
 
- ## Description
+## Description
 
 This is a simple chat app that allows users to create fictional conversations between two people. It's designed for fun and creativity, allowing you to generate chat messages for two individuals. You can customize the names of the people and the content of their messages.
+
+## Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-Used-E34F26.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-Used-F7DF1E.svg)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Used-7952B3.svg)
+![CSS](https://img.shields.io/badge/CSS-Used-1572B6.svg)
 
 ## Features
 
